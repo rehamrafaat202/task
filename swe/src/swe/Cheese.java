@@ -10,7 +10,7 @@ public class Cheese extends pizza{
 
 	@Override
 	public double cost() {
-		return 7.88;
+		return 3.88;
 	}
 
 }
